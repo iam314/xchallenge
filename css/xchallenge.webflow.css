@@ -144,6 +144,9 @@
     -ms-flex-align: center;
     align-items: center;
   }
+  .background {
+    min-height: 100vh;
+  }
   .image-3 {
     max-width: 90%;
   }
