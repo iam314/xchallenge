@@ -50,7 +50,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 20%;
+  margin-top: 0%;
   margin-right: auto;
   margin-left: auto;
   -webkit-box-orient: vertical;
@@ -124,6 +124,7 @@
 }
 
 .background {
+  min-height: 100vw;
   padding-top: 20%;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#e5077e), to(#f9b233));
   background-image: linear-gradient(180deg, #e5077e, #f9b233);
